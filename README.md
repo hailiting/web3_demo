@@ -36,6 +36,7 @@ npm install @walletconnect/web3-provider
 npm init -y
 npm install solc
 npm install truffle -g
+npm install -g truffle@5.1.48
 truffle init
 npm install @openzeppelin/contracts
 truffle compile # 编译
