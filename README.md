@@ -40,6 +40,7 @@ npm install -g truffle@5.1.48
 truffle init
 npm install @openzeppelin/contracts
 truffle compile # 编译
+truffle test --network goerli
 ```
 
 #### 使用具有跨链功能的智能合约框架
